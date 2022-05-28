@@ -3,7 +3,7 @@ Clone repo.
 Install the dependencies and devDependencies.
 
 ```sh
-$ cd amazon-ui-tests
+$ cd codeceptwdio
 $ npm install
 ```
 
